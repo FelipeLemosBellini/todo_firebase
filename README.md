@@ -1,7 +1,7 @@
 # todo_firebase
-Fiz esse projeto com https://github.com/pablostefan para apresentar em um meetup para mostrar as funcionalidades do do serviço de autenticação e firestore realizado em Ribeirão Preto no dia 19/07/22
+Fiz esse projeto com https://github.com/pablostefan para apresentar em um meetup para mostrar as funcionalidades dos serviços firebase de autenticação e firestore realizado em Ribeirão Preto no dia 19/07/22
 
-segue as telas 
+segue as telas:
 
 ![image](https://user-images.githubusercontent.com/73961291/179970095-19fc16d2-74c4-4a61-9335-963509cfe559.png)![image](https://user-images.githubusercontent.com/73961291/179970211-9c70a1ff-fef8-4504-8ca7-d103d3c7ffa1.png)
 
