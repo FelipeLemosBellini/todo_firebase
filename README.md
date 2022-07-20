@@ -3,4 +3,4 @@ Fiz esse projeto para apresentar em um meetup para mostrar as funcionalidades do
 
 segue as telas 
 
-![WhatsApp Image 2022-07-20 at 08 19 30](https://user-images.githubusercontent.com/73961291/179969804-2a77e34e-204c-475e-b1ec-a03a32f2e24e.jpeg)
+![image](https://user-images.githubusercontent.com/73961291/179969987-0042b120-a55e-47ba-8485-66938c0698dd.png)
