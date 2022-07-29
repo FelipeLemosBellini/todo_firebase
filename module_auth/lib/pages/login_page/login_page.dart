@@ -109,6 +109,7 @@ class _LoginPageState extends State<LoginPage> {
                                       ])))))
                         ])))),
             bottomSheet: ToDoMeetupButtonWidget(
+              key: const Key("buttonLogin"),
                 colorBackground: ToDoMeetupColors.white,
                 onTap: () => _store.signIn(context),
                 paddingHorizontal: ToDoMeetupDimens.twentyFour,
