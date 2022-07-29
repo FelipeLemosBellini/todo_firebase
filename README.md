@@ -10,4 +10,3 @@ segue as telas:
 ![image](https://user-images.githubusercontent.com/73961291/179970389-1aec9f0c-49a5-49ac-80be-f0d27ff35dfe.png)![image](https://user-images.githubusercontent.com/73961291/179970449-217bcc74-c9a4-4c3d-a712-0199136a281b.png)
 
 ![image](https://user-images.githubusercontent.com/73961291/179970507-ac1bf254-77a8-4ad0-b788-0e7510308244.png)
-
